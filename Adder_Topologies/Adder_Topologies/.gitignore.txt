@@ -1,0 +1,23 @@
+# Vivado build artifacts
+*.jou
+*.log
+*.str
+*.zip
+*.xpr
+
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.Xil/
+.ip_user_files/
+.ip_user_files/
+.dcp
+
+# Simulation / waveform configs
+*.wcfg
+*.wdb
+
+# OS files
+.DS_Store
+Thumbs.db
