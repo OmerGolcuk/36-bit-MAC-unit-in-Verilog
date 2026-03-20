@@ -8,9 +8,6 @@ This folder contains a curated subset of the Lab 4 physical-design deliverables 
 - `sources/constraints/top.sdc`
 - `sources/testbenches/tb_mac_unit.v`
 - `artifacts/`
-  - `MAC_TOP.v`
-  - `mac_top_netlist.v`
-  - `MAC_TOP.sdf`
   - `MAC_TOP.drc.rpt`
   - `MAC_TOP.conn.rpt`
   - `MAC_TOP.antenna.rpt`
@@ -21,6 +18,7 @@ This folder contains a curated subset of the Lab 4 physical-design deliverables 
 ## Omitted
 
 - Foundry collateral and library data such as LEF, GDS, and cell-model files
+- Foundry-dependent mapped netlists and SDF files
 - Innovus workspace state, command logs, and bulk timing archives
 - Tutorial media and setup bundles
 - Empty or non-portable artifacts such as the empty `power.rpt`

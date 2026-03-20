@@ -19,6 +19,9 @@ saed*.v
 *.ddc
 *.dcp
 *.vds
+*.sdf
+*_netlist.v
+MAC_TOP.v
 *.pb
 *.wdf
 *.lpr
