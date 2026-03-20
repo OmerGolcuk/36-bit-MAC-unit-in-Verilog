@@ -15,13 +15,6 @@ This folder contains a curated subset of the Lab 4 physical-design deliverables 
   - `MAC_TOP_postCTS.summary.txt`
   - `MAC_TOP_postRoute.summary.txt`
 
-## Omitted
-
-- Foundry collateral and library data such as LEF, GDS, and cell-model files
-- Foundry-dependent mapped netlists and SDF files
-- Innovus workspace state, command logs, and bulk timing archives
-- Tutorial media and setup bundles
-- Empty or non-portable artifacts such as the empty `power.rpt`
 
 ## Notes
 
