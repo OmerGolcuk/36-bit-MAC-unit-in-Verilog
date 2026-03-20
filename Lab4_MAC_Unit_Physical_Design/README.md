@@ -9,6 +9,7 @@ This folder contains a curated subset of the Lab 4 physical-design deliverables 
 - `sources/testbenches/tb_mac_unit.v`
 - `artifacts/`
   - `MAC_TOP.v`
+  - `mac_top_netlist.v`
   - `MAC_TOP.sdf`
   - `MAC_TOP.drc.rpt`
   - `MAC_TOP.conn.rpt`
@@ -22,7 +23,7 @@ This folder contains a curated subset of the Lab 4 physical-design deliverables 
 - Foundry collateral and library data such as LEF, GDS, and cell-model files
 - Innovus workspace state, command logs, and bulk timing archives
 - Tutorial media and setup bundles
-- Redundant or empty artifacts such as `mac_top_netlist.v` and the empty `power.rpt`
+- Empty or non-portable artifacts such as the empty `power.rpt`
 
 ## Notes
 
