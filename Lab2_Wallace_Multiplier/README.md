@@ -11,11 +11,6 @@ This folder contains a curated subset of the Lab 2 submission for a 16x16 Wallac
   - `WallaceTree16_16_32nm.v`
 - `sources/testbenches/tb_WallaceTree16_16_32nm.v`
 
-## Omitted
-
-- SAED vendor models such as `saed32_nm.v`
-- Standard-cell library `.db` and `.lib` files
-- Vivado project files, caches, run directories, and waveform databases
 
 ## Notes
 
