@@ -1,0 +1,55 @@
+# Raw archives
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tar.xz
+
+# Vendor and foundry collateral
+*.db
+*.lib
+*.sdb
+*.lef
+*.gds
+tcbn*.v
+saed*.v
+
+# Synthesis and implementation intermediates
+*.ddc
+*.dcp
+*.vds
+*.pb
+*.wdf
+*.lpr
+*.jou
+*.log
+*.str
+*.xpr
+*.wdb
+*.wcfg
+*.rlx
+*.rtti
+*.xdbg
+*.mem
+*.obj
+*.exe
+*.ini
+
+# Tool state
+.Xil/
+.cadence/
+.simvision/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+xcelium.d/
+waves.shm/
+work/
+WORK/
+
+# OS files
+.DS_Store
+Thumbs.db
