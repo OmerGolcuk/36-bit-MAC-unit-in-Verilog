@@ -14,12 +14,7 @@ This folder contains the curated Lab 3 materials for the RTL-to-synthesis flow o
 - `artifacts/`
   - `mac_unit.sdc`
 
-## Omitted
 
-- TSMC library models such as `tcbn65lp.v`
-- Foundry-dependent mapped netlists and SDF files
-- Design Compiler setup files and bulk generated databases
-- SimVision, Xcelium, and waveform directories
 
 ## Notes
 
